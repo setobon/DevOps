@@ -54,3 +54,24 @@ Comunicación:
 
 - En tiempos de trabajo remoto, para hacer más rápida la comunicación, preguntar si puedes hacerle la llamada a la persona que necesitas
  en vez de chatear y esperar una respuesta.
+ 
+ 
+ 
+Otras etapas de proyecto
+
+- Definir los estándares de nombramiento de métodos, variables, repositorios, branches, etc.
+- Definir marco de trabajo, metodologías, herramientas, lenguaje, etc
+
+
+Propuestas de comuniación entre los departamentos
+
+- Transferencia de conocimientos sobre algún tema en específico, ejemplo los de qa con 
+ desarrollo y mostrar cómo se ha hecho la implementación y ellos cómo podrían probarla.
+- Comunicar las tareas que se tienen para poder justificar el status de una tarea, en caso
+ de no poder llegar a cumplirla.
+ 
+Herramientas que podrían compartirse para una mayor agilidad entre departamentos
+
+- Por lo general se maneja Jira, que es donde se tiene un backlog de todas las tareas y ahí
+ se pueden dar cuenta del estado de cada una, así no estar preguntando cómo va (pero se necesita
+ tener una buena práctica documentando estas)
